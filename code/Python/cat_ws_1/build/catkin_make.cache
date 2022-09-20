@@ -1,0 +1,2 @@
+hello_turtle
+-DCATKIN_DEVEL_PREFIX=/home/juan/cat_ws_1/devel -DCMAKE_INSTALL_PREFIX=/home/juan/cat_ws_1/install -G Unix Makefiles
